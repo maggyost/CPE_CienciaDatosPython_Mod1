@@ -26,5 +26,9 @@ pi = 3.1415
 msg = "Mes de Julio"
 
 print(nro)
+print(type(nro))
 print(pi)
 print(msg)
+
+
+
