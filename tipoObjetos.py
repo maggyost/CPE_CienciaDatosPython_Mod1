@@ -46,3 +46,17 @@ nro = "Mes de Julio"
 print(type(nro))
 '''
 
+# int()  float()  str()
+'''
+print(int(3.1415))
+print(float(1))
+
+print(int("1"))
+print(int(1))
+
+'''
+print(int("1245"))
+print(float("12.45"))
+
+print(str(3.1415))
+print(str(-1))
