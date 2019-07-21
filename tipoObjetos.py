@@ -33,11 +33,16 @@ print(msg)
 print(type(msg))
 '''
 
+'''
 nro = -1
+print(type(nro))
+nro = 0
+print(type(nro))
+nro = 1
 print(type(nro))
 nro = 3.1415
 print(type(nro))
 nro = "Mes de Julio"
 print(type(nro))
-
+'''
 
