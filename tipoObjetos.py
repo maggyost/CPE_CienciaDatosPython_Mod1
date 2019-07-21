@@ -60,3 +60,15 @@ print(float("12.45"))
 
 print(str(3.1415))
 print(str(-1))
+
+print(type(True))
+
+print(bool(12))
+
+print(type(6/3))
+print(6/3)
+
+print(type(6//3))
+print(6//3)
+
+# True False
