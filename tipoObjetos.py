@@ -24,11 +24,20 @@ print("Mes de Julio")
 nro = 10
 pi = 3.1415
 msg = "Mes de Julio"
-
+'''
 print(nro)
 print(type(nro))
 print(pi)
+print(type(pi))
 print(msg)
+print(type(msg))
+'''
 
+nro = -1
+print(type(nro))
+nro = 3.1415
+print(type(nro))
+nro = "Mes de Julio"
+print(type(nro))
 
 
